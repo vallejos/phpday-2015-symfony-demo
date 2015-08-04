@@ -1,5 +1,5 @@
 {
-    "name": "fabian/phpday.2015.symfony.demo",
+    "name": "fabian/symfony2.7",
     "license": "proprietary",
     "type": "project",
     "autoload": {
